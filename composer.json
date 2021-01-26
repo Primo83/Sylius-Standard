@@ -51,7 +51,8 @@
         "symfony/web-profiler-bundle": "^4.4"
     },
     "conflict": {
-        "symfony/form": "4.4.11|4.4.12"
+        "symfony/form": "4.4.11|4.4.12",
+        "api-platform/core": ">=2.6.0"
     },
     "prefer-stable": true,
     "autoload": {

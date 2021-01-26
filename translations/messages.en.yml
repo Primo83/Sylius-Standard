@@ -1,0 +1,8 @@
+app:
+    form:
+        product:
+            color: 
+                blue: 'blue'
+                red: 'red'
+                green: 'green'
+                choice: 'Choice color'
